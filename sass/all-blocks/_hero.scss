@@ -1,0 +1,35 @@
+.hero{
+    margin-top: 122px;
+
+    &__h2{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 64px;
+        line-height: 75px;
+        text-align: center;
+        color: #FFFFFF;        
+    }
+
+    &__p{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 140%;
+        text-align: center;
+        text-transform: lowercase;
+        color: #FFFFFF;
+        width: 268px;
+        height: 44px;
+        margin-left: 500.25px;
+    }
+
+    &__linya{
+        border: 1px solid #FFFFFF;
+        transform: rotate(90deg);     
+        width: 59px;
+        height: 0px;   
+        margin-top: 40px;
+    }
+}
